@@ -1,2 +1,2 @@
 # Codex_Proxy_Share_Sessions
-切换不同的api
+切换不同的codex apikey后可共享一套历史会话
